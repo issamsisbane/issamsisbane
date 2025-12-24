@@ -1,10 +1,14 @@
 ## Welcome to Issam's GitHub profile ! 👋
 
+<div align="center">
+  
 [![Portfolio EN](https://img.shields.io/badge/🌐_Portfolio-EN🇬🇧-5ca852?style=for-the-badge&logoColor=white)](https://issamsisbane.github.io/portfolio/en)
 [![Portfolio FR](https://img.shields.io/badge/🌐_Portfolio-FR🇫🇷-5ca852?style=for-the-badge&logoColor=white)](https://issamsisbane.github.io/portfolio/fr)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/issam-sisbane/badges)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issamsisbane)
 [![Contact](https://img.shields.io/badge/Contact_Me-2a2b2a?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:issam.sisbane@gmail.com)
+
+</div>
 
 ### Presentation 💬
 
@@ -41,4 +45,3 @@ seeking: Exciting Challenges
 - Learning and self‑improvement
 - Designing solutions to complex problems
 - Discovering new productivity tips
-

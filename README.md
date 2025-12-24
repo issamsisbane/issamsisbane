@@ -30,7 +30,7 @@ seeking: Exciting Challenges
 - **DevOps**: `Ansible`, `ArgoCD`, `Bash`, `Gitlab`, `Helm`, `Nexus`, `Terraform`
 - **Monitoring**: `Grafana`, `Loki`, `OpenTelemetry`, `Prometheus`
 
-### Objectives ⚡
+### Goals 🎯
 - Focused on strengthening my technical and strategic skills while contributing to high‑impact projects.
 - Driven by continuous learning and by the desire to create a positive impact for teams, clients, and the broader professional community.
 - I aim to build and architect innovative solutions that improve people’s lives and help shape the future of the industry. 

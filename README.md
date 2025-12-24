@@ -1,24 +1,44 @@
-## Welcome to my GitHub profile! 👋
+## Welcome to Issam's GitHub profile ! 👋
+
+[![Portfolio EN](https://img.shields.io/badge/🌐_Portfolio-EN🇬🇧-5ca852?style=for-the-badge&logoColor=white)](https://issamsisbane.github.io/portfolio/en)
+[![Portfolio FR](https://img.shields.io/badge/🌐_Portfolio-FR🇫🇷-5ca852?style=for-the-badge&logoColor=white)](https://issamsisbane.github.io/portfolio/fr)
+[![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/issam-sisbane/badges)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issamsisbane)
+[![Contact](https://img.shields.io/badge/Contact_Me-2a2b2a?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:issam.sisbane@gmail.com)
 
 ### Presentation 💬
-My name is Issam, I'm a French DevOps & Cloud Engineer at [Atos](https://atos.net/en/).
-Passionate about innovation, I am constantly seeking new opportunities to develop my skills, learn new things, and find solutions to complex problems.
 
-### Experience 💼
-Throughout my professional journey, I've had the opportunity to work on various projects in areas such as IoT, cloud computing, software development and DevOps. I have gained solid experience in deploying applications on cloud platforms such as Azure and AWS, as well as in web application development.
+My name is Issam, I'm a French DevOps & Cloud Engineer at [Atos](https://atos.net/en/).
+
+```yaml
+name: Issam SISBANE
+role: Cloud & DevOps Engineer
+specialization: [Cloud, DevSecOps, Kubernetes]
+current_position: Cloud & DevOps Engineer @ Atos
+location: France
+seeking: Exciting Challenges
+```
+
+### Daily Job 👩‍🏭
+
+- I help teams deliver faster, safer, and more efficiently by leveraging Kubernetes and DevSecOps to automate deployments, optimize resources, and ensure seamless scalability. 
+- I build resilient, cloud-native systems that empower developers, reduce risks, and accelerate time-to-market.
 
 ### Tech Stack 🛠
-- **Programming languages**: `Python`, `Java`, `JavaScript`, `Typescript`
-- **Cloud technologies**: `Azure`, `Kubernetes`, `Docker`
-- **Frameworks**: `Vue.js`, `Loopback`, `Nuxt`, `Express`, `SpringBoot`
-- **DevOps**: `Ansible`, `Vagrant`, `Terraform`, `Gitlab`, `Kubernetes`
+- **Programming languages**: `Python`, `Java`
+- **Cloud technologies**: `Azure`, `AWS`, `Docker`, `Kubernetes`, `Openshift`, `Outscale`
+- **DevOps**: `Ansible`, `ArgoCD`, `Bash`, `Gitlab`, `Helm`, `Nexus`, `Terraform`
+- **Monitoring**: `Grafana`, `Loki`, `OpenTelemetry`, `Prometheus`
 
 ### Objectives ⚡
-In the long term, I aim to develop new solutions to make life easier for others, and I am committed to continuing my professional development to achieve this goal.
+- Focused on strengthening my technical and strategic skills while contributing to high‑impact projects.
+- Driven by continuous learning and by the desire to create a positive impact for teams, clients, and the broader professional community.
+- I aim to build and architect innovative solutions that improve people’s lives and help shape the future of the industry. 
+- Always seeking new challenges where I can apply my expertise to drive meaningful and lasting change.
 
-### Contact 📫
-Feel free to contact me via email at [issam.sisbane@gmail.com] or follow me on [LinkedIn](https://www.linkedin.com/in/issamsisbane/) to discuss potential collaborations or simply to exchange ideas on topics related to computer science and technology.
+### What I like 👍
+- Smart note‑taking
+- Learning and self‑improvement
+- Designing solutions to complex problems
+- Discovering new productivity tips
 
-You can also take a look at my portfolio to learn more about me and my projects:
-- [Portfolio (English)](https://issamsisbane.github.io/portfolio/en)
-- [Portfolio (French)](https://issamsisbane.github.io/portfolio/fr)
